@@ -1,4 +1,4 @@
-# Integrated Web-Based Grievance Management System for Educational Institutions
+# Web-Based Grievance Management System for Educational Institutions
 
 This project is a web-based grievance management system designed for educational institutions. It allows students, staff, and college members to register complaints or grievances online, providing a platform for transparency and fairness.
 
