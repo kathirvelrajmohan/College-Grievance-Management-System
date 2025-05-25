@@ -11,9 +11,9 @@ This project is a web-based grievance management system designed for educational
 - Transparency in complaint handling.
 
 ## Requirements
-- **Backend**: [Django](https://www.djangoproject.com/), Flask, or a similar framework.
+- **Backend**: [Django](https://www.djangoproject.com/).
 - **Frontend**: HTML, CSS, JavaScript.
-- **Database**: PostgreSQL
+- **Database**: PostgreSQL.
 - Python 3.6 or higher.
 - Additional requirements are in `requirements.txt`.
 
